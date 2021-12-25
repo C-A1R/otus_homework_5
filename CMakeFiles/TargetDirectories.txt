@@ -1,0 +1,13 @@
+/home/runner/work/otus_homework_5/otus_homework_5/CMakeFiles/doc_doxygen.dir
+/home/runner/work/otus_homework_5/otus_homework_5/CMakeFiles/matrix_cli.dir
+/home/runner/work/otus_homework_5/otus_homework_5/CMakeFiles/matrix_lib.dir
+/home/runner/work/otus_homework_5/otus_homework_5/CMakeFiles/test_Version.dir
+/home/runner/work/otus_homework_5/otus_homework_5/CMakeFiles/package.dir
+/home/runner/work/otus_homework_5/otus_homework_5/CMakeFiles/package_source.dir
+/home/runner/work/otus_homework_5/otus_homework_5/CMakeFiles/test.dir
+/home/runner/work/otus_homework_5/otus_homework_5/CMakeFiles/edit_cache.dir
+/home/runner/work/otus_homework_5/otus_homework_5/CMakeFiles/rebuild_cache.dir
+/home/runner/work/otus_homework_5/otus_homework_5/CMakeFiles/list_install_components.dir
+/home/runner/work/otus_homework_5/otus_homework_5/CMakeFiles/install.dir
+/home/runner/work/otus_homework_5/otus_homework_5/CMakeFiles/install/local.dir
+/home/runner/work/otus_homework_5/otus_homework_5/CMakeFiles/install/strip.dir

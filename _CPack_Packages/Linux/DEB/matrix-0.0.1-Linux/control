@@ -1,0 +1,9 @@
+Architecture: amd64
+Description: matrix built using CMake
+Maintainer: example@example.com
+Package: matrix
+Priority: optional
+Section: devel
+Version: 0.0.1
+Installed-Size: 101
+
